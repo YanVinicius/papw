@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CRUD-papw"
+    }
+  },
+  "defaultProject": "CRUD-papw",
+  "cli": {
+    "analytics": false
+  }
 }
